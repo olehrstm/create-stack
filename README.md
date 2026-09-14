@@ -11,3 +11,8 @@ To generate a project via this template:
 1. Install [`copier`](https://copier.readthedocs.io/en/stable/#installation) via one of the provided tools
 2. `copier copy gh:olehrstm/<template repository> <destination>`
 3. Answer the prompted questions
+
+## List of templates
+
+- https://github.com/olehrstm/fabric-mod-java-template
+- a lot more soon
